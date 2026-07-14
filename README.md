@@ -50,13 +50,13 @@ A procedural warehouse simulation environment generator built in SideFX Houdini 
 <img src="screenshots/after_clicking_play3.PNG" width="500"/>
 <table>
   <tr>
-    <td align="center"><img src="screenshots/final_wheeled_cart_before_play" width="360"/></td>
+    <td align="center"><img src="screenshots/final_wheeled_cart_before_play.PNG" width="360"/></td>
     <td align="center"><img src="screenshots/final_wheeled_cart_after_play.PNG" width="360"/></td>
   </tr>
 </table>
 <table>
   <tr>
-    <td align="center"><img src="screenshots/Before_Clicking_Play.png" width="360"/></td>
+    <td align="center"><img src="screenshots/Before_Clicking_Play.PNG" width="360"/></td>
     <td align="center"><img src="screenshots/After_Clicking_Play.png" width="360"/></td>
   </tr>
 </table>
