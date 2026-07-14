@@ -6,6 +6,10 @@ A procedural warehouse simulation environment generator built in SideFX Houdini 
 
 ## Visual Showcase
 
+### Procedural Generation Demo
+
+<video src="media/demo.mp4" width="100%" autoplay loop muted playsinline></video>
+
 ### Warehouse Environment
 ![Procedural warehouse layout with placed assets and standards-compliant aisle clearances](screenshots/warehouse_viewport.png)
 
