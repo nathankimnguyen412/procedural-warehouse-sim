@@ -24,7 +24,7 @@ A procedural warehouse simulation environment generator built in SideFX Houdini 
 <img src="screenshots/sop_network.PNG"/>
 <img src="screenshots/lop_network.PNG"/>
 
-### Articulated Assets
+### Fully Procedural Articulated Models
 <img src="screenshots/industrial_cabinet_HDA2.PNG" width="500"/>
 <img src="screenshots/warehouse_shelving_HDA_visual.PNG" width="500"/>
 <img src="screenshots/wheeled_cart_HDA_Solaris_viewport.PNG" width="500"/>
@@ -46,7 +46,7 @@ A procedural warehouse simulation environment generator built in SideFX Houdini 
 ## Features
 
 - **Procedural warehouse layout generation** modeled after North American Class A distribution center specifications (OSHA 1910.176, NFPA 13, NEC 110.26, ANSI MH16.1) with configurable compliance parameters
-- **Five articulated asset HDAs** with full UsdPhysics schemas:
+- **Five fully procedural articulated asset HDAs** with full UsdPhysics schemas:
   - Equipment Case — revolute joint lid, latch mechanism
   - Lever Valve — revolute joint with angular limits, pipe-mounted
   - Warehouse Shelving — multi-tier pallet racking, adjustable heights
