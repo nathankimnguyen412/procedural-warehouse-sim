@@ -17,8 +17,7 @@ A procedural warehouse simulation environment generator built in SideFX Houdini 
 <video src="https://github.com/user-attachments/assets/68b76c8e-058b-4b9a-a0e7-b34d9c352450" width="100%" autoplay loop muted playsinline></video>
 
 ### Warehouse Environment
-![Procedural warehouse layout with placed assets and standards-compliant aisle clearances]
-(screenshots/warehouse_viewport.PNG)
+![Procedural warehouse layout with placed assets and standards-compliant aisle clearances](screenshots/warehouse_viewport.PNG)
 
 ### Procedural Networks
 ![SOP network graph showing procedural geometry generation]<img src="screenshots/sop_network.PNG"/>
@@ -26,14 +25,10 @@ A procedural warehouse simulation environment generator built in SideFX Houdini 
 
 ### Articulated Assets
 ![Industrial cabinet with revolute door joints and prismatic drawer joints](screenshots/asset_cabinet.PNG)
-![Multi-tier warehouse shelving with adjustable shelf heights]
-(screenshots/asset_shelving.PNG)
-![Wheeled cart with fixed and swivel wheel joints]
-(screenshots/asset_cart.PNG)
-![Lever valve with revolute joint and angular limits]
-(screenshots/asset_valve.PNG)
-![Equipment case with hinged lid and latch mechanism]
-(screenshots/asset_case.PNG)
+![Multi-tier warehouse shelving with adjustable shelf heights](screenshots/asset_shelving.PNG)
+![Wheeled cart with fixed and swivel wheel joints](screenshots/asset_cart.PNG)
+![Lever valve with revolute joint and angular limits](screenshots/asset_valve.PNG)
+![Equipment case with hinged lid and latch mechanism](screenshots/asset_case.PNG)
 
 ### Isaac Sim Validation
 ![Articulated assets simulating with correct physics behavior in NVIDIA Isaac Sim](screenshots/isaac_sim_validation.PNG)
