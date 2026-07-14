@@ -71,4 +71,4 @@ The pipeline follows a three-layer HDA architecture:
 
 ## Related Work
 
-- [**Houdini Synthetic Data Generation Pipeline**](https://github.com/nathankimnguyen412/houdini-lego-sdg): End-to-end synthetic data pipeline achieving 95.1% AP@50 on real-world evaluation from purely synthetic Houdini-generated training data. Published dataset on [Hugging Face](https://huggingface.co/datasets/nathankimnguyen412/houdini-lego-sdg).
+- [**Houdini Synthetic Data Generation Pipeline**](https://github.com/nathankimnguyen412/houdini-sdg-pipeline): End-to-end synthetic data pipeline achieving 95.1% AP@50 on real-world evaluation from purely synthetic Houdini-generated training data. Published dataset on [Hugging Face](https://huggingface.co/datasets/nathankimnguyen412/houdini-lego-sdg).
