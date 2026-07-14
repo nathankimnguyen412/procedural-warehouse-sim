@@ -25,11 +25,11 @@ A procedural warehouse simulation environment generator built in SideFX Houdini 
 <img src="screenshots/lop_network.PNG"/>
 
 ### Articulated Assets
-![Industrial cabinet with revolute door joints and prismatic drawer joints](screenshots/asset_cabinet.PNG)
-![Multi-tier warehouse shelving with adjustable shelf heights](screenshots/asset_shelving.PNG)
-![Wheeled cart with fixed and swivel wheel joints](screenshots/asset_cart.PNG)
-![Lever valve with revolute joint and angular limits](screenshots/asset_valve.PNG)
-![Equipment case with hinged lid and latch mechanism](screenshots/asset_case.PNG)
+<img src="screenshots/industrial_cabinet_HDA2.PNG"/>
+<img src="screenshots/warehouse_shelving_HDA_visual.PNG"/>
+<img src="screenshots/wheeled_cart_HDA_Solaris_viewport.PNG"/>
+<img src="screenshots/lever_valve_viewport.PNG"/>
+<img src="screenshots/equipment_case_viewport.PNG"/>
 
 ### Isaac Sim Validation
 ![Articulated assets simulating with correct physics behavior in NVIDIA Isaac Sim](screenshots/isaac_sim_validation.PNG)
