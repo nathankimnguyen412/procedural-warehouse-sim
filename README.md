@@ -11,21 +11,28 @@ A procedural warehouse simulation environment generator built in SideFX Houdini 
 <video src="media/demo.mp4" width="100%" autoplay loop muted playsinline></video>
 
 ### Warehouse Environment
-![Procedural warehouse layout with placed assets and standards-compliant aisle clearances](screenshots/warehouse_viewport.png)
+![Procedural warehouse layout with placed assets and standards-compliant aisle clearances]
+(screenshots/warehouse_viewport.PNG)
 
 ### Procedural Networks
-![SOP network graph showing procedural geometry generation](screenshots/sop_network.png)
-![LOP network showing USD scene assembly and UsdPhysics schema authoring](screenshots/lop_network.png)
+![SOP network graph showing procedural geometry generation]
+(screenshots/sop_network.PNG)
+<img src="screenshots/sop_network.PNG"/>
+![LOP network showing USD scene assembly and UsdPhysics schema authoring](screenshots/lop_network.PNG)
 
 ### Articulated Assets
-![Industrial cabinet with revolute door joints and prismatic drawer joints](screenshots/asset_cabinet.png)
-![Multi-tier warehouse shelving with adjustable shelf heights](screenshots/asset_shelving.png)
-![Wheeled cart with fixed and swivel wheel joints](screenshots/asset_cart.png)
-![Lever valve with revolute joint and angular limits](screenshots/asset_valve.png)
-![Equipment case with hinged lid and latch mechanism](screenshots/asset_case.png)
+![Industrial cabinet with revolute door joints and prismatic drawer joints](screenshots/asset_cabinet.PNG)
+![Multi-tier warehouse shelving with adjustable shelf heights]
+(screenshots/asset_shelving.PNG)
+![Wheeled cart with fixed and swivel wheel joints]
+(screenshots/asset_cart.PNG)
+![Lever valve with revolute joint and angular limits]
+(screenshots/asset_valve.PNG)
+![Equipment case with hinged lid and latch mechanism]
+(screenshots/asset_case.PNG)
 
 ### Isaac Sim Validation
-![Articulated assets simulating with correct physics behavior in NVIDIA Isaac Sim](screenshots/isaac_sim_validation.png)
+![Articulated assets simulating with correct physics behavior in NVIDIA Isaac Sim](screenshots/isaac_sim_validation.PNG)
 
 ---
 
