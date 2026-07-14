@@ -1,6 +1,12 @@
+
+
+
+
 # Procedural Warehouse Simulation
 
-A procedural warehouse simulation environment generator built in SideFX Houdini for robotics training. Generates physically accurate industrial environments modeled after North American Class A distribution center specifications, with articulated assets (cabinets, shelving, carts, valves, equipment cases), exports USD with complete UsdPhysics schemas (rigid bodies, collision proxies, joint hierarchies), and validates in NVIDIA Isaac Sim. Layout logic follows OSHA 1910.176, NFPA 13, NEC 110.26, and ANSI MH16.1 with configurable compliance parameters. Orchestrated through TOPs/PDG for batch generation of hundreds of unique environment variants from a single tool interface.
+A procedural warehouse simulation environment generator built in SideFX Houdini for robotics training. Generates physically accurate industrial environments modeled after North American Class A distribution center specifications, with articulated assets (cabinets, shelving,
+
+ carts, valves, equipment cases), exports USD with complete UsdPhysics schemas (rigid bodies, collision proxies, joint hierarchies), and validates in NVIDIA Isaac Sim. Layout logic follows OSHA 1910.176, NFPA 13, NEC 110.26, and ANSI MH16.1 with configurable compliance parameters. Orchestrated through TOPs/PDG for batch generation of hundreds of unique environment variants from a single tool interface.
 
 ---
 
@@ -8,7 +14,7 @@ A procedural warehouse simulation environment generator built in SideFX Houdini 
 
 ### Procedural Generation Demo
 
-<video src="media/demo.mp4"></video>
+<video src="https://github.com/user-attachments/assets/68b76c8e-058b-4b9a-a0e7-b34d9c352450" width="100%" autoplay loop muted playsinline></video>
 
 ### Warehouse Environment
 ![Procedural warehouse layout with placed assets and standards-compliant aisle clearances]
