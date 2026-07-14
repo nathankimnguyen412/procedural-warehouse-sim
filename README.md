@@ -35,7 +35,7 @@ A procedural warehouse simulation environment generator built in SideFX Houdini 
 <img src="screenshots/cabinet_after_clicking_play2.PNG" width="500"/>
 <img src="screenshots/after_clicking_play3.PNG" width="500"/>
 <img src="screenshots/final_wheeled_cart_after_play.PNG" width="500"/>
-<img src="screenshots/After_Clicking_Play.PNG" width="500"/>
+<img src="screenshots/After_Clicking_Play.png" width="500"/>
 <img src="screenshots/lid_moving_correctly.PNG" width="500"/>
 <img src="screenshots/warehouse_before_play.PNG"/>
 <img src="screenshots/warehouse_after_play.PNG"/>
