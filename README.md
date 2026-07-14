@@ -19,6 +19,8 @@ A procedural warehouse simulation environment generator built in SideFX Houdini 
 ### Warehouse Environment
 <img src="screenshots/procedural_warehouse1.PNG"/>
 <img src="screenshots/procedural_warehouse2.PNG"/>
+<img src="screenshots/procedural_warehouse3.PNG"/>
+<img src="screenshots/procedural_warehouse4.PNG"/>
 
 ### Procedural Networks
 <img src="screenshots/sop_network.PNG"/>
