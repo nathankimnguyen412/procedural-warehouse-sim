@@ -8,16 +8,14 @@ A procedural warehouse simulation environment generator built in SideFX Houdini 
 
 ### Procedural Generation Demo
 
-<video src="media/demo.mp4" width="100%" autoplay loop muted playsinline></video>
+<video src="media/demo.mp4"></video>
 
 ### Warehouse Environment
 ![Procedural warehouse layout with placed assets and standards-compliant aisle clearances]
 (screenshots/warehouse_viewport.PNG)
 
 ### Procedural Networks
-![SOP network graph showing procedural geometry generation]
-(screenshots/sop_network.PNG)
-<img src="screenshots/sop_network.PNG"/>
+![SOP network graph showing procedural geometry generation]<img src="screenshots/sop_network.PNG"/>
 ![LOP network showing USD scene assembly and UsdPhysics schema authoring](screenshots/lop_network.PNG)
 
 ### Articulated Assets
