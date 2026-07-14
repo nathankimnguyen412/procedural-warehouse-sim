@@ -30,7 +30,18 @@ A procedural warehouse simulation environment generator built in SideFX Houdini 
 <img src="screenshots/lop_network.PNG"/>
 
 ### Fully Procedural Articulated Models
-<img src="screenshots/industrial_cabinet_HDA2.PNG" width="500"/>
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/industrial_cabinet_HDA.PNG" width="360"/></td>
+    <td align="center"><img src="screenshots/industrial_cabinet_HDA2.PNG" width="360"/></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/industrial_cabinet_HDA3.PNG" width="360"/></td>
+    <td align="center"><img src="screenshots/industrial_cabinet_HDA4.PNG" width="360"/></td>
+  </tr>
+</table>
 <img src="screenshots/warehouse_shelving_HDA_visual.PNG" width="500"/>
 <img src="screenshots/wheeled_cart_HDA_Solaris_viewport.PNG" width="500"/>
 <img src="screenshots/lever_valve_viewport.PNG" width="500"/>
