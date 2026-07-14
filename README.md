@@ -25,7 +25,6 @@ A procedural warehouse simulation environment generator built in SideFX Houdini 
 
 ### Procedural Networks
 <img src="screenshots/sop_network.PNG"/>
-<img src="screenshots/lop_network2.PNG"/>
 
 ### Fully Procedural Articulated Models
 <table>
