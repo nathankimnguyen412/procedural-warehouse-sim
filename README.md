@@ -48,8 +48,18 @@ A procedural warehouse simulation environment generator built in SideFX Houdini 
 ### Isaac Sim Validation
 <img src="screenshots/cabinet_after_clicking_play2.PNG" width="500"/>
 <img src="screenshots/after_clicking_play3.PNG" width="500"/>
-<img src="screenshots/final_wheeled_cart_after_play.PNG" width="500"/>
-<img src="screenshots/After_Clicking_Play.png" width="500"/>
+<table>
+  <tr>
+    <td align="center"><img src="final_wheeled_cart_before_play" width="360"/></td>
+    <td align="center"><img src="final_wheeled_cart_after_play.PNG" width="360"/></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center"><img src="Before_Clicking_Play.png" width="360"/></td>
+    <td align="center"><img src="After_Clicking_Play.png" width="360"/></td>
+  </tr>
+</table>
 <img src="screenshots/lid_moving_correctly.PNG" width="500"/>
 <img src="screenshots/warehouse_before_play.PNG"/>
 <img src="screenshots/warehouse_after_play.PNG"/>
