@@ -1,4 +1,4 @@
-# Project Hephaestus
+# Procedural Warehouse Simulation
 
 A procedural warehouse simulation environment generator built in SideFX Houdini for robotics training. Generates physically accurate industrial environments modeled after North American Class A distribution center specifications, with articulated assets (cabinets, shelving, carts, valves, equipment cases), exports USD with complete UsdPhysics schemas (rigid bodies, collision proxies, joint hierarchies), and validates in NVIDIA Isaac Sim. Layout logic follows OSHA 1910.176, NFPA 13, NEC 110.26, and ANSI MH16.1 with configurable compliance parameters. Orchestrated through TOPs/PDG for batch generation of hundreds of unique environment variants from a single tool interface.
 
